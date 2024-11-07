@@ -1,4 +1,4 @@
-// JavaScript for smooth scrolling to sections
+
 document.querySelectorAll('.container a').forEach(anchor => {
     anchor.addEventListener('click', function(e) {
         e.preventDefault();
@@ -45,5 +45,4 @@ function revealOnScroll() {
 
 window.addEventListener('scroll', revealOnScroll);
 
-// Initialize animations when page loads
 window.addEventListener('load', revealOnScroll);
