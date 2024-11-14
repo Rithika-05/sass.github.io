@@ -1,4 +1,4 @@
-S_No,NAME_OF_THE_STUDENT,UNIVERSITY,PROGRAM NAME,Specialisation,SEMESTER,Domain,GENERAL_MANAGEMENT_SCORE,Domai_ Specific_SCORE,TOTAL_SCORE,RANKING,PERCENTILE
+S_No,NAME_OF_THE_STUDENT,UNIVERSITY,PROGRAM_NAME,Specialisation,SEMESTER,Domain,GENERAL_MANAGEMENT_SCORE,Domain_ Specific_SCORE,TOTAL_SCORE,RANKING,PERCENTILE
 0,Camila Wood,"Stanford University, USA",B.Com,Honours,5th,Finance,50,50,100,1,1
 1,Alexander Thompson,"Stanford University, USA",B.Com,Financial Services,5th,Finance,50,50,100,2,0.993377483
 2,Liam Taylor,"Harvard University, USA",B.Com,Accounting Analytics,5th,BA,50,50,100,3,0.986754967
